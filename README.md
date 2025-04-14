@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi! I'm Rachain
 
-<!--
-**rachain888/rachain888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer passionate about building beautiful UIs and scalable web apps!
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages & Frameworks
+- JavaScript / TypeScript
+- React.js / Next.js
+- React Native
+- Node.js / Express
+
+### 🎨 UI & Design
+- Tailwind CSS / MUI
+- Figma (basic)
+
+### 🧪 Testing
+- Jest / Vitest / Playwright
+
+### ⚙️ Tools
+- Git & GitHub
+- VS Code
+- Docker (พื้นฐาน)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rachain888&show_icons=true&theme=tokyonight)
+
+## 📫 Contact
+- 💌 rachain.klinchan@gmail.com
+- 🌐 [My Portfolio](https://kingpower.com)
